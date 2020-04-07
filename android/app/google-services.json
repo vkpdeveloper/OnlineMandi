@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "68659647102",
+    "firebase_url": "https://shopkeeperepd.firebaseio.com",
+    "project_id": "shopkeeperepd",
+    "storage_bucket": "shopkeeperepd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68659647102:android:1bca4ab3fca11f49b27e2f",
+        "android_client_info": {
+          "package_name": "com.diagodeveloper.shopkeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68659647102-fn9jq6v4bnrovmus8vbd41fuejmc0ohb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diagodeveloper.shopkeeper",
+            "certificate_hash": "d41fe99e8cbbb0af9d5176fb2a7518fdc38bcc46"
+          }
+        },
+        {
+          "client_id": "68659647102-toofh33dev4p3lct1676jdlovfiq9nl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApKZVMOyf5Edc5qC2cXO34LnbdNBV5fd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68659647102-toofh33dev4p3lct1676jdlovfiq9nl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
